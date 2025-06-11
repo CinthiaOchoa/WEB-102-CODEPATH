@@ -1,4 +1,4 @@
-**# Web Development Project 1 - Atlanta Food Tech Solutions
+Web Development Project 1 - Atlanta Food Tech Solutions
 
 Submitted by: Cinthia Ochoa Torre
 
